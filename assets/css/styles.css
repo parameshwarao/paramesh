@@ -1,0 +1,40 @@
+div#content{
+  text-align:center;
+  padding:10%;
+  background-color:#AAB1C4;
+}
+
+div#content.jumbotron{
+  border-radius:14%;
+}
+
+body{
+  font-family:Georgia,"Times New Roman",Times,serif;
+}
+
+div.container.projectcontainer{
+  text-align:center;
+  padding:60px 0;
+}
+
+div#publications.container.projectcontainer{
+  font-family:sans-serif;
+  padding:40px;
+  font-family:cursive;
+  font-weight:initial;
+  font-size:25px;
+}
+
+h1.aboutme{
+  font-size:20px;
+}
+
+div#skills.row{
+  background-color:#EDF3F7;
+}
+
+div.col-md-12{
+  text-align:center;
+  word-wrap:break-word;
+}
+
